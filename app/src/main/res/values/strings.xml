@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="favorites">Favorites</string>
+    <string name="news_feed">News Feed</string>
+</resources>
